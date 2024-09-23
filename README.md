@@ -73,9 +73,7 @@ Para seguir este projeto, são necessários os seguintes passos:
     %LINKS:
     ```
     
-- **`Acessar o MATLAB Online:`** Após criar a conta, acesse o MATLAB Online através do navegador.
-    
-    O MATLAB Online oferece uma interface completa para realizar cálculos, criar gráficos e desenvolver scripts diretamente na web, sem necessidade de instalação local.
+- **`Acessar o MATLAB Online:`** Após criar a conta, acesse o MATLAB Online através do navegador. O MATLAB Online oferece uma interface completa para realizar cálculos, criar gráficos e desenvolver scripts diretamente na web, sem necessidade de instalação local.
 
 ## Informações Adicionais
 
