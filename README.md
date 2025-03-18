@@ -77,6 +77,4 @@ Para seguir este projeto, são necessários os seguintes passos:
 
 ## Informações Adicionais
 
-[Forneça quaisquer informações adicionais relevantes sobre o projeto ou o processo de desenvolvimento.]
-
 
